@@ -1,2 +1,2 @@
 # dayzTestMod
-Testing mod for Dayz
+Testing mod and server config for Dayz 
